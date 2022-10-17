@@ -1,0 +1,16 @@
+ResourcePacks/
+config.json
+favorites.json
+input profiles.json
+servers.dat
+
+Worlds/*
+#World to sync
+!Worlds/The_Hamlet_of_Mushrooms*
+
+
+Players/*
+# Players to sync
+!Players/Lisa3*
+
+
