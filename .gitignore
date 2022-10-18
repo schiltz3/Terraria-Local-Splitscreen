@@ -4,6 +4,10 @@ favorites.json
 input profiles.json
 servers.dat
 
+tModLoader/*
+tModLoader-preview/*
+ModLoader/*
+
 Worlds/*
 #World to sync
 !Worlds/The_Hamlet_of_Mushrooms*
